@@ -15,7 +15,7 @@ Les demandes d'extraction sont le meilleur moyen de proposer des modifications �
 
 1. Fourchez le dépôt et créez votre branche à partir de `main`.
 2. Si vous avez modifié quelque chose, mettez à jour la [documentation](/documentation/).
-3. [Assurez-vous que votre code peluche](#utilisez-un-style-de-codage-cohérent) (en utilisant du noir).
+3. [Assurez-vous que votre code peluche](#utilisez-un-style-de-codage-cohérent) (en utilisant du black).
 4. [Testez votre contribution](#testez-votre-modification-de-code).
 5. Émettez cette pull request !
 
