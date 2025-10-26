@@ -14,9 +14,9 @@ Github se používá k hostování kódu, sledování problémů a požadavků n
 Pull requesty jsou nejlepším způsobem, jak navrhnout změny v kódové bázi.
 
 1. Forkněte repozitář a vytvořte svou větev z `main`.
-2. Pokud jste něco změnili, aktualizujte dokumentaci.
-3. Ujistěte se, že váš kód prochází lintováním (pomocí black).
-4. Otestujte svůj příspěvek.
+2. Pokud jste něco změnili, aktualizujte [dokumentaci](/documentation/).
+3. [Ujistěte se, že váš kód prochází lintováním](#používejte-konzistentní-styl-kódování) (pomocí black).
+4. [Otestujte svůj příspěvek](#otestujte-úpravy-svého-kódu).
 5. Vytvořte pull request!
 
 ## Všechny vaše příspěvky budou pod licencí MIT Software License
