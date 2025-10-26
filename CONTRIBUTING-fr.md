@@ -13,7 +13,7 @@ Github est utilisé pour héberger du code, pour suivre les problèmes et les de
 
 Les demandes d'extraction sont le meilleur moyen de proposer des modifications à la base de code.
 
-1. Fourchez le dépôt et créez votre branche à partir de `master`.
+1. Fourchez le dépôt et créez votre branche à partir de `main`.
 2. Si vous avez modifié quelque chose, mettez à jour la documentation.
 3. Assurez-vous que votre code peluche (en utilisant du noir).
 4. Testez votre contribution.
