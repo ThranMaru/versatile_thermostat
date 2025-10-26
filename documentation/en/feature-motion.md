@@ -4,7 +4,7 @@
   - [Configure Activity Mode or Motion Detection](#configure-activity-mode-or-motion-detection)
   - [Usage](#usage)
 
-This feature allows you to change presets when motion is detected in a room. If you don't want to heat your office when the room is occupied and only when the room is occupied, you need a motion (or presence) sensor in the room and configure this feature.
+This feature allows you to change presets when motion is detected in a room. If you don't want to heat your office when the room is not occupied and only when the room is occupied, you need a motion (or presence) sensor in the room and configure this feature.
 
 This function is often confused with the presence feature. They are complementary but not interchangeable. The 'motion' function is local to a room equipped with a motion sensor, while the 'presence' function is designed to be global to the entire home.
 
