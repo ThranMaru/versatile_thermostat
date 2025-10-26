@@ -16,9 +16,9 @@ Github wird verwendet, um Code zu hosten, um Probleme und Funktionsanfragen zu v
 Pull Requests sind der beste Weg, um Änderungen an der Codebasis vorzuschlagen.
 
 1. Forken Sie das Repo und erstellen Sie Ihren Zweig von `main`.
-2. Wenn Sie etwas geändert haben, aktualisieren Sie die Dokumentation.
-3. Vergewissern Sie sich, dass sich Ihr Code färbt (in Schwarz).
-4. Testen Sie Ihren Beitrag.
+2. Wenn Sie etwas geändert haben, aktualisieren Sie die [Dokumentation](/documentation/).
+3. [Vergewissern Sie sich, dass sich Ihr Code färbt](#verwenden-sie-einen-konsistenten-codingstil) (in Schwarz).
+4. [Testen Sie Ihren Beitrag](#testen-sie-ihre-codeänderung).
 5. Erstellen Sie einen Pull Request!
 
 ## Alle Beiträge, die Sie leisten, stehen unter der MIT-Software-Lizenz
