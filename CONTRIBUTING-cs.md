@@ -13,7 +13,7 @@ Github se používá k hostování kódu, sledování problémů a požadavků n
 
 Pull requesty jsou nejlepším způsobem, jak navrhnout změny v kódové bázi.
 
-1. Forkněte repozitář a vytvořte svou větev z `master`.
+1. Forkněte repozitář a vytvořte svou větev z `main`.
 2. Pokud jste něco změnili, aktualizujte dokumentaci.
 3. Ujistěte se, že váš kód prochází lintováním (pomocí black).
 4. Otestujte svůj příspěvek.
