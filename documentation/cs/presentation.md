@@ -3,7 +3,7 @@ Tento termostat dokáže ovládat 3 typy zařízení:
 1. Radiátor, který funguje pouze v režimu zapnuto/vypnuto (nazývaný `thermostat_over_switch`). Minimální konfigurace požadovaná pro použití tohoto typu termostatu je:
    1. Zařízení jako radiátor (`switch` nebo ekvivalent),
    2. Teplotní senzor pro místnost (nebo input_number),
-   3. Externí teplotní senzor (zvažte weather integraci, pokud ji nemáte).
+   3. Externí teplotní senzor (zvažte weather integraci, pokud ho nemáte).
 2. Jiný termostat, který má své vlastní provozní režimy (nazývaný `thermostat_over_climate`). Pro tento typ termostatu vyžaduje minimální konfigurace:
    1. Zařízení – jako klimatizace, termostatický ventil – ovládané vlastní `climate` entitou.
 3. Zařízení, které může přijmout hodnotu od 0 do 100% (nazývané `thermostat_over_valve`). Na 0 je vytápění vypnuto a na 100% je plně otevřeno. Tento typ umožňuje ovládání termostatického ventilu (např. Shelly ventil), který vystavuje entitu typu `number`, což umožňuje přímé ovládání otevření ventilu. Versatile Thermostat reguluje teplotu místnosti úpravou procenta otevření, používá jak vnitřní, tak vnější teplotní senzory a využívá TPI algoritmus popsaný níže.
