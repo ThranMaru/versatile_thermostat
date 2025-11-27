@@ -6,7 +6,7 @@
 
 Mit dieser Funktion können Sie die Voreinstellungen ändern, wenn in einem Raum eine Bewegung erkannt wird. Wenn Sie Ihr Büro nicht heizen möchten, wenn der Raum unbesetzt ist, sondern nur, wenn der Raum besetzt ist, benötigen Sie einen Bewegungs- (oder Präsenz-) Sensor im Raum und konfigurieren diese Funktion.
 
-Diese Funktion wird oft mit der Anwesenheitsfunktion verwechselt. Sie ergänzen sich, sind aber nicht austauschbar. Die `Bewegungs`-Funktion ist auf einen Raum beschränkt, der mit einem Bewegungsmelder ausgestattet ist, während die `Anwesenheits`-Funktion für die gesamte Wohnung gedacht ist.
+Diese Funktion wird oft mit der [Anwesenheitsfunktion](feature-presence.md) verwechselt. Sie ergänzen sich, sind aber nicht austauschbar. Die `Bewegungs`-Funktion ist auf einen Raum beschränkt, der mit einem Bewegungsmelder ausgestattet ist, während die `Anwesenheits`-Funktion für die gesamte Wohnung gedacht ist.
 
 ## Aktivitätsmodus oder Bewegungserkennung konfigurieren
 
