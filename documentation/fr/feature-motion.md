@@ -6,7 +6,7 @@
 
 Cette fonction vous permet de changer de preset lorsqu'un mouvement est détectée dans une pièce. Si vous ne souhaitez chauffer votre bureau que lorsque la pièce est occupée et uniquement si la pièce est occupée, il vous faut un capteur de mouvement (ou de présence) dans la pièce et configurer cette fonction.
 
-Cette fonction est souvent confondue avec la fonction de présence. Elles sont complémentaires mais ne se remplace pas. La fonction 'mouvement' est locale à une pièce équipe d'un capteur de mouvement alors que la fonction 'présence' est prévue pour être globale à tout le logement.
+Cette fonction est souvent confondue avec la fonction de [présence](feature-presence.md). Elles sont complémentaires mais ne se remplace pas. La fonction 'mouvement' est locale à une pièce équipe d'un capteur de mouvement alors que la fonction 'présence' est prévue pour être globale à tout le logement.
 
 ## Configurer le mode d'activité ou la détection de mouvement
 
