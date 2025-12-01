@@ -13,7 +13,7 @@ Twój wkład w ten projekt powinien być jak najłatwiejszy i najbardziej przejr
 
 _*Pull requesty*_ to najlepszy sposób na proponowanie zmian w bazie kodu.
 
-1. Wykonaj _*fork*_ repozytorium i utwórz gałąź `master`,
+1. Wykonaj _*fork*_ repozytorium i utwórz gałąź `main`,
 2. Jeśli coś zmieniłeś, koniecznie zaktualizuj dokumentację w jasny i spójny sposób, stosując _*najlepsze praktyki kodowania*_,
 3. Upewnij się, że Twój kod jest _*lintowany*_ (używając czarnego koloru),
 4. Przetestuj swoje zmiany,
