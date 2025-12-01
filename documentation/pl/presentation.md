@@ -9,7 +9,7 @@ Termostat _VTherm_ może sterować 3 typami urządzeń:
    1. Urządzenia – np. klimatyzacji, zaworu termostatycznego – sterowanego przez własną encję `climate`.
 3. Urządzenie, które może przyjmować wartość od 0 do 100% (nazywane `termostatem na zaworze`). Przy wartości `0` ogrzewanie jest wyłączone, a przy `100%` zawór jest całkowicie otwarty. Ten typ pozwala sterować zaworem termostatycznym (np. zawór Shelly), który udostępnia encję typu `number`, umożliwiając bezpośrednie sterowanie stopniem otwarcia zaworu. Versatile Thermostat reguluje temperaturę w pomieszczeniu poprzez dostosowanie procentu otwarcia, wykorzystując zarówno czujniki temperatury wewnętrznej i zewnętrznej, jak i algorytm TPI opisany poniżej.
 
-Typ `termostatu na klimacie` pozwala dodać wszystkie funkcje oferowane przez Versatile Thermostat do istniejącego sprzętu. Encja `climate` termostatu będzie sterować Twoją bazową encją `climate` – wyłączy ją, jeśli okna są otwarte, przełączy w tryb `Eco`, jeśli nikt nie jest obecny, itd. (patrz: [tutaj](#pourquoi-un-nouveau-thermostat-implémentation)).
+Typ `termostatu na klimacie` pozwala dodać wszystkie funkcje oferowane przez Versatile Thermostat do istniejącego sprzętu. Encja `climate` termostatu będzie sterować Twoją bazową encją `climate` – wyłączy ją, jeśli okna są otwarte, przełączy w tryb `Eco`, jeśli nikt nie jest obecny, itd. (patrz: [tutaj](#kiedy-dodać-nowy-termostat-vtherm)).
 
 Dla tego typu termostatu wszystkie cykle grzewcze są kontrolowane przez bazową encję `climate`, a nie przez sam termostat. Opcjonalna funkcja autoregulacji pozwala termostatom _VTherm_ dostosować temperaturę zadaną do encji bazowej, aby osiągnąć wartość docelową.
 
