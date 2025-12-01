@@ -6,7 +6,7 @@
 
 Funkcja ta pozwala zmieniać preset, gdy w pomieszczeniu wykryty zostanie ruch. Jeśli nie chcesz ogrzewać pustego pomieszczenia, a tylko wtedy, gdy ktoś w nim przebywa, musisz użyć  czujnika ruchu (lub obecności) w pomieszczeniu i odpowiednio skonfigurować tę funkcję.
 
-Ta funkcja jest często mylona z funkcją obecności. Są one komplementarne, ale niezamienne. Funkcja „ruchu” działa lokalnie w pomieszczeniu wyposażonym w czujnik ruchu, natomiast funkcja „obecności” została zaprojektowana jako globalna dla całego domu.
+Ta funkcja jest często mylona z [funkcją obecności](feature-presence.md). Są one komplementarne, ale niezamienne. Funkcja „ruchu” działa lokalnie w pomieszczeniu wyposażonym w czujnik ruchu, natomiast funkcja „obecności” została zaprojektowana jako globalna dla całego domu.
 
 ## Konfiguracja trybu aktywności lub detekcji ruchu
 
